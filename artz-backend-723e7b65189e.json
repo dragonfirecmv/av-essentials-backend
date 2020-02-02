@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "artz-backend",
+  "private_key_id": "723e7b65189edf211a405e5db0ece3b511cb133b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC34Ct8/QutNO0G\nC4ausvukhAV/v6EFsZV9LAi3MCkPzSWnGx6SucODdWtViO+RMI2iiWjPabTztk2R\n4XVeh6fElOk3r7IHNWV4cDjLyOTFWMRJcC8AeUZxgN7tbAsPQWv6IGco7RPbL/vp\ngHqC9SxUTEUZMtQC5UdTW0NzzOZRtW1H1sdJKEiuSNtF/s/BmIDAv7zSsBoSMJnC\n2nbS+cMf2mXRt0GCKEu6wXTqDJznlnJgWOAMcAscW4wWxJvhOA6Rm90Gkz0TRHXo\nm5d3h1rWtVcXEIdnPrrzd+Ar0pIJGF2/ZPN7abFIa0kk/dYTtcSRK1tMTaNM7N35\nQp6c4qz9AgMBAAECggEAJP/3UEXNCTP6s/oyxkmeyGqGfr/NQ4uJ9K+dK1uGD7ds\nqbUT0FuQA45npEUTS+h0v62dyQrQzi+zaTTwfK6YbD64tStmC/xLKFKQozUQD8P+\nb3ajBpngums/sI/Ko+26sBDAIWSfV75OlxxyypJSMr5MMzdeoRyI3zWgm5cyC2O5\n/01GFbebRZLp73xeY70HwM+WEb/uEnGfwzJaI3PZZklP6Tzhug9bW90d/RH/q0Cr\nZly7yYHDO1YnfRXZdWRAA1QEj2wt24XEyQr454w36RE6wAIckTq/KCYn7hNQPoGo\nhFuAXl6sILuq3QTbK91NT1i0xHUEY4rObEtUD7klIQKBgQD3kp7VgwfDHPQ3TUlA\n0NuqEqGpeSgSSZNoFAW7gpG0irb/51GS4bqqrinpMkPRHybILIaX0OlCkEZBmFJQ\nSAdg744JiV03wORyioi8zvmseUsGCHc8olP9s1QxR/4nmELix14vv1tQD6O91tLs\n/sCZnTx4IGrttac6eyOsLcdfbQKBgQC+Inw4Qp/O/cYibOLUj4M5FZQdUjaDBnU4\nWEdnSqkhQ6kgMf5tvftcK4QqWg1di5Jt6rZG6GbnWkX7AWozE3HlU1Eo8Xx2cXOk\niryE05GabENUnVShFFiYhkKk78hzm1vGOulF256r7pRweVEjrHYwOun7yvRPQfhy\nO2BejMi50QKBgD8etbpQFvmK90TmQofw+CBrcaYoyqum8Js3h6KgDpAOUcv66RRe\n0t3TW8Il256Ep7mfiI1KaT5cVF1C/bGUO7VePkN2LzsYxeXiJiylRIjRv+wA2o2u\nAWYMg6mw5j6oFl2FYSEhU6Gc6y1qiQp9hRNlQFaMRVbn2oQRgy3R2iQdAoGAQnsG\nWhmZjSOYmsLd0RrY9CXCYzoyyz9/zxK27LvjRTlGMnaokrCh6glhLfnMwI+jxIET\n+Nkb2frriydkfbVn1pp6P0mojjV/DOJhpkPfnlIKfNSCGcxmafZP6SHaQenpffdt\nRzrSUSWbi3Qv1bxgmt6On7bIE8pqV27BdG3fZXECgYACKHaV4iMpPAN7EPKnn6tR\n+lA9mlttxSsPc3DjFdgrApatJFoCHu/4jgU2NXwMP8J1qutSwW0iYQza2I1+ECWI\ntLj5b8MDnmCwOrXq+ohyDfSM6JY0f9GR8io8yO/QiQQZMV6ASwap+32emoREkGQs\nqpWnqJrI9b4BvEU0D1ZHWg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcs-artz@artz-backend.iam.gserviceaccount.com",
+  "client_id": "114902461542730993967",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcs-artz%40artz-backend.iam.gserviceaccount.com"
+}
